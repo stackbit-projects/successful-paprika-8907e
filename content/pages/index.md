@@ -17,7 +17,7 @@ sections:
         elementId: hero-main-button
     media:
       type: ImageBlock
-      url: /images/hero-1.png
+      url: /favicon.svg
       altText: Image alt text
       caption: Image caption
     styles:
